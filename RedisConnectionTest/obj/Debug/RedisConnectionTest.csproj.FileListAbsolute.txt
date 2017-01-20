@@ -1,0 +1,8 @@
+c:\users\mariusz\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Debug\RedisConnectionTest.exe.config
+c:\users\mariusz\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Debug\RedisConnectionTest.exe
+c:\users\mariusz\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Debug\RedisConnectionTest.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Debug\StackExchange.Redis.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\bin\Debug\StackExchange.Redis.xml
+c:\users\mariusz\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\obj\Debug\RedisConnectionTest.csprojResolveAssemblyReference.cache
+c:\users\mariusz\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\obj\Debug\RedisConnectionTest.exe
+c:\users\mariusz\documents\visual studio 2015\Projects\RedisConnectionTest\RedisConnectionTest\obj\Debug\RedisConnectionTest.pdb
